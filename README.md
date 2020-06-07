@@ -1,2 +1,2 @@
 # Anjali394.github.io
-this is my port folio website
+this is my portfolio website
