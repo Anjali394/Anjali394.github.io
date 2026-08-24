@@ -2696,6 +2696,28 @@ footer .copyright span:last-child::after {
     letter-spacing: .05rem;
 }
 
+.pf-project-links {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1.6rem;
+}
+
+.pf-project-links a {
+    font-family: "poppins-regular", sans-serif;
+    font-size: 1.2rem;
+    color: #FF0077;
+    border: 1px solid #FF0077;
+    border-radius: 3px;
+    padding: .3rem 1.2rem;
+    text-decoration: none;
+    transition: background .2s, color .2s;
+}
+
+.pf-project-links a:hover {
+    background: #FF0077;
+    color: #fff;
+}
+
 /* --- skills grid --- */
 .pf-skills-grid {
     display: flex;
